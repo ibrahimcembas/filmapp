@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "1070655520418",
+    "firebase_url": "https://denemeprojeler-d9e20-default-rtdb.firebaseio.com",
+    "project_id": "denemeprojeler-d9e20",
+    "storage_bucket": "denemeprojeler-d9e20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070655520418:android:fb8bed95a6d5e6345921fb",
+        "android_client_info": {
+          "package_name": "com.example.filmapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070655520418-benmc885g8a7tlldvfqko6bm53lqffkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRnrb2bMWnGlXBdCCjyo66y10QXALk1vU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070655520418-benmc885g8a7tlldvfqko6bm53lqffkr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1070655520418-5ohhqhdtc9veosokc5s25ij2okc9hhij.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sozlukapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070655520418:android:88cba91073050b5a5921fb",
+        "android_client_info": {
+          "package_name": "com.example.notlar_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070655520418-benmc885g8a7tlldvfqko6bm53lqffkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRnrb2bMWnGlXBdCCjyo66y10QXALk1vU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070655520418-benmc885g8a7tlldvfqko6bm53lqffkr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1070655520418-5ohhqhdtc9veosokc5s25ij2okc9hhij.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sozlukapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070655520418:android:6832394db56cb33f5921fb",
+        "android_client_info": {
+          "package_name": "com.example.sozlukapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070655520418-benmc885g8a7tlldvfqko6bm53lqffkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRnrb2bMWnGlXBdCCjyo66y10QXALk1vU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070655520418-benmc885g8a7tlldvfqko6bm53lqffkr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1070655520418-5ohhqhdtc9veosokc5s25ij2okc9hhij.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sozlukapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
